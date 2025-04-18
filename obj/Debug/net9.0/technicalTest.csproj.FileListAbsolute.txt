@@ -160,3 +160,4 @@ C:\Users\user\source\repos\technicalTest\technicalTest\bin\Debug\net9.0\Swashbuc
 C:\Users\user\source\repos\technicalTest\technicalTest\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\user\source\repos\technicalTest\technicalTest\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\user\source\repos\technicalTest\technicalTest\bin\Debug\net9.0\System.Linq.Dynamic.Core.dll
+C:\Users\user\source\repos\technicalTest\technicalTest\obj\Debug\net9.0\technicalTest.sourcelink.json
