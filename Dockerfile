@@ -31,7 +31,7 @@ ENV ConnectionStrings__DefaultConnection="Data Source=/app/data/leavemanagement.
 RUN mkdir -p /app/data
 
 
-VOLUME /app/data
+#VOLUME /app/data
 
 
 ENTRYPOINT ["dotnet", "technicalTest.dll"]

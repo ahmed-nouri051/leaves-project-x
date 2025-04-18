@@ -19,7 +19,7 @@ namespace technicalTest.Controllers
             _leaveRequestService = leaveRequestService;
         }
 
-        // GET: api/LeaveRequests
+       
         [HttpGet("filter")]
         public async Task<ActionResult<PagedResponseDto<LeaveRequestDto>>> GetLeaveRequests(
             [FromQuery] LeaveRequestFilterDto filter)
@@ -28,7 +28,7 @@ namespace technicalTest.Controllers
             return Ok(result);
         }
 
-        // POST: api/LeaveRequests
+        
         [HttpPost]
         public async Task<ActionResult<LeaveRequest>> CreateLeaveRequest(
             [FromBody] CreateLeaveRequestDto createDto)
