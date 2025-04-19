@@ -33,6 +33,9 @@ EXPOSE 80
 
 
 #VOLUME /app/data
+ 
+
+
 
 
 ENTRYPOINT ["dotnet", "technicalTest.dll"]
